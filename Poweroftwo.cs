@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BasicConceptPrograms
+      namespace BasicConceptPrograms
 {
-    internal class Poweroftwo
+     class Poweroftwo
     {
     }
     public static void FindPoweroftwo()

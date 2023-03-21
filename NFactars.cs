@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicConceptPrograms
 {
-    internal class NFactars
+    class NFactars
     {
     }
 }
